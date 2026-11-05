@@ -1,0 +1,5 @@
+*.o
+*.so
+__pycache__/
+calcUF26Field
+Test/testUF26Field
