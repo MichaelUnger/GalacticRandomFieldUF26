@@ -89,8 +89,7 @@ make test
 ```
 
 compares `UF26Field` to reference values in `Test/referenceValues.txt`,
-calculated with the code used for the fits in the paper. The reference file
-is produced by `Test/makeReferenceValues.sh`.
+calculated with the code used for the fits in the paper.
 
 ## Python bindings
 
